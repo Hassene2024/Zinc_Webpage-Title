@@ -66,9 +66,9 @@ a:hover{
     background-color: #ffe7eb;
     padding: 5px;
     color:#ff5574;
-    text-align: centre;
+    text-align: center;
     width: 250px;
-    margin-top: 200px;   
+    margin-top: 200px;  
 }
 
 .title1{
@@ -126,3 +126,4 @@ a:hover{
     background-color:white;
     border:#ff5574 2px solid;
 }
+
